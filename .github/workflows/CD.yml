@@ -3,7 +3,7 @@ name: Calculator CD
 on:
   push:
     branches:
-      - main # or master
+      - master # or master
 
   workflow_dispatch:
 
