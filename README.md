@@ -24,4 +24,4 @@ KEEP THIS TERMINAL OPEN
 MAKE SURE TO NAVIGATE TO YOUR WORKING DIRECTORY USING cd C:/path_to_your_folder_here DURING PRACTICE
 YOU WILL BE RUNNING ALL THE npm COMMANDS IN THIS TERMINAL and the git commands in the git bash inside vscode (or terminal in vscode if you have MAC)
 
-![0](imgs/npm_working.png)
+![0](imgs/npm_working.png)# practice2_software
